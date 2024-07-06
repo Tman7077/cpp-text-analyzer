@@ -1,3 +1,4 @@
+Number of unique words: 6207
 the: 19294
 and: 16370
 of: 11862
